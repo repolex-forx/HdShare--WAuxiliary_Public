@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "HdShare",
+  "repo": "WAuxiliary_Public",
+  "versions": [
+    {
+      "commit": "5a5fbed4b8f74925da0619b348103f05b5de853f",
+      "parsed_at": "2026-11-10T02:56:40.390058+00:00",
+      "tag": "1340-1.2.7.r1340.1990374",
+      "filetree": "filetree/5a5fbed4b8f74925da0619b348103f05b5de853f.nq.gz",
+      "blobs": [
+        "blob/1d7dc3a6ef70faf0faeb867c3eb77a7e044b249e.nq.gz",
+        "blob/a68d2ffdaca62da84d948e3be9777619af7b5969.nq.gz",
+        "blob/5eb3e353ef612daabe35051b1c277d3dd8856e5e.nq.gz",
+        "blob/f983355bac4912129586539f58771083c31a30b5.nq.gz",
+        "blob/17cd12b12347bbfb6f1093e8657b85c11d7c0b97.nq.gz",
+        "blob/9c64c9c3e6a32750b4bc9bfcb0dae8e435ac2dcf.nq.gz",
+        "blob/4e07f46fe1b6d895479dd977bb063e48fd15f07a.nq.gz",
+        "blob/a228a723b965a284474362b08c216cd4c480b1c5.nq.gz",
+        "blob/d93b357f0947e3a051718d9a878397e7a3d4f4ca.nq.gz",
+        "blob/d7df1bbe40ad95c2f2956fddd36668367fe9289d.nq.gz",
+        "blob/d674fe8cc337908c62fd33b5fea057c138db0908.nq.gz",
+        "blob/580eb21f2d3f555a939a8281a726776d3e5cd3c8.nq.gz",
+        "blob/3ba13e0cec6cbbfd462e9ebf529dd2093148cd69.nq.gz",
+        "blob/b277ee7639690c684e7407fcc71b6d4a58d9ea13.nq.gz",
+        "blob/ccdec1b289b6ed1dbb34de794d0d3c77bb388b0b.nq.gz",
+        "blob/b84cc71be0ea944e50a5426d4f703c26ff7abdf5.nq.gz",
+        "blob/68fc8c857217d70b371724d6aa0656df2117149e.nq.gz",
+        "blob/4ea67a731bc291fe2afcd2cc4eed79d58245ae27.nq.gz",
+        "blob/b87d8933f3cf0c77bcc0890610951cae39692c04.nq.gz",
+        "blob/d3bd574ed626892834958db247f16b160f933ab9.nq.gz",
+        "blob/ee75480fc31655a87d6f8989885ed14ad9470ae0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
